@@ -21,7 +21,7 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    transition: all .1s;
+    transition: all .08s;
     
 }
 .playing {
